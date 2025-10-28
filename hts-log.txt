@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Aug 2024 10:29:28 at https://likely-story.co.uk +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://likely-story.co.uk -O1 "C:\My Web Sites\ss" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:29:41	Error: 	"Method Not Allowed" (405) at link https://likely-story.co.uk/xmlrpc.php (from https://likely-story.co.uk/)
+10:29:43	Warning: 	Unexpected socket error during pre-loop
+10:30:15	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=12
+10:30:15	Warning: 	File has moved from https://likely-story.co.uk/?p=12 to https://likely-story.co.uk/about/
+10:30:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://likely-story.co.uk/wp-content/uploads/2021/05/LS-Bio-01@2x-1440x1440.png (from https://likely-story.co.uk/about/)
+10:30:15	Warning: 	Retry after error -4 (Receive Error) at link https://likely-story.co.uk/wp-content/uploads/2021/05/LS-Bio-02@2x-1440x1440.png (from https://likely-story.co.uk/about/)
+10:30:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://likely-story.co.uk/wp-content/uploads/2021/05/about-cta-illy@2x-1006x1440.png (from https://likely-story.co.uk/about/)
+10:30:15	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=14
+10:30:15	Warning: 	File has moved from https://likely-story.co.uk/?p=14 to https://likely-story.co.uk/projects/
+10:30:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://likely-story.co.uk/projects/brown-opticians/ (from https://likely-story.co.uk/projects/)
+10:30:16	Warning: 	Retry after error -4 (Incorrect length (7919 Bytes, 623789 expected)) at link https://likely-story.co.uk/wp-content/uploads/2021/08/Browns-Cover-01-1-620x768.png (from https://likely-story.co.uk/projects/)
+10:30:17	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://likely-story.co.uk/projects/yellow-telescope/ (from https://likely-story.co.uk/projects/)
+10:30:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://likely-story.co.uk/wp-content/uploads/2021/04/YT-Cover-01-1-620x768.png (from https://likely-story.co.uk/projects/)
+10:30:18	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://likely-story.co.uk/wp-json/wp/v2/pages/16 (from https://likely-story.co.uk/contact/)
+10:30:18	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=16
+10:30:18	Warning: 	File has moved from https://likely-story.co.uk/?p=16 to https://likely-story.co.uk/contact/
+10:30:18	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=741
+10:30:18	Warning: 	File has moved from https://likely-story.co.uk/?p=741 to https://likely-story.co.uk/projects/askonas-holt/
+10:30:18	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=704
+10:30:18	Warning: 	File has moved from https://likely-story.co.uk/?p=704 to https://likely-story.co.uk/projects/bertch-capital/
+10:30:18	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=678
+10:30:18	Warning: 	File has moved from https://likely-story.co.uk/?p=678 to https://likely-story.co.uk/projects/our-revolution/
+10:30:18	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=44
+10:30:18	Warning: 	File has moved from https://likely-story.co.uk/?p=44 to https://likely-story.co.uk/projects/novo/
+10:30:18	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=571
+10:30:18	Warning: 	File has moved from https://likely-story.co.uk/?p=571 to https://likely-story.co.uk/projects/the-edwin-group/
+10:30:18	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=349
+10:30:18	Warning: 	File has moved from https://likely-story.co.uk/?p=349 to https://likely-story.co.uk/projects/smile-kitchens/
+10:30:18	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=3
+10:30:18	Warning: 	File has moved from https://likely-story.co.uk/?p=3 to https://likely-story.co.uk/privacy-policy/
+10:30:25	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=318
+10:30:25	Warning: 	File has moved from https://likely-story.co.uk/?p=318 to https://likely-story.co.uk/projects/brown-opticians/
+10:30:25	Warning: 	Moved Permanently for https://likely-story.co.uk/?p=124
+10:30:25	Warning: 	File has moved from https://likely-story.co.uk/?p=124 to https://likely-story.co.uk/projects/yellow-telescope/
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 205 links scanned, 183 files written (55695312 bytes overall) [54828159 bytes received at 961897 bytes/sec], 1461707 bytes transferred using HTTP compression in 40 files, ratio 35%, 11.3 requests per connection
+(1 errors, 33 warnings, 0 messages)
